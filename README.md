@@ -1,15 +1,13 @@
 
-
-```markdown
-# 🛒 Retail Sales Exploratory Data Analysis (EDA)
+Retail Sales Exploratory Data Analysis (EDA)
 
 An end-to-end Exploratory Data Analysis (EDA) project focused on analyzing retail store transactions, identifying sales trends, evaluating pricing distributions, and deriving actionable business insights.
 
 ---
 
-## 📁 Repository Structure
+Repository Structure
 
-```text
+
 EDA/
 │
 ├── Data/
