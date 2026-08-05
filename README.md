@@ -94,7 +94,7 @@ Customize store recommendations based on customer profiles—promoting **Beauty 
 
 1. **Clone the repository:**
 ```bash
-git clone [https://github.com/your-username/retail-sales-eda.git](https://github.com/your-username/retail-sales-eda.git)
+git clone [https://github.com/your-username/retail-sales-eda.git](https://github.com/yash-yadav/retail-sales-eda.git)
 cd EDA
 
 ```
