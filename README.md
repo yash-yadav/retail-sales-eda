@@ -1,22 +1,21 @@
 
-Retail Sales Exploratory Data Analysis (EDA)
+
+# 🛒 Retail Sales Exploratory Data Analysis (EDA)
 
 An end-to-end Exploratory Data Analysis (EDA) project focused on analyzing retail store transactions, identifying sales trends, evaluating pricing distributions, and deriving actionable business insights.
 
 ---
 
-Repository Structure
+## 📁 Repository Structure
 
-
-EDA/
-│
-├── Data/
-│   └── retail_sales_dataset.csv     # Raw retail transaction dataset
-│
-├── .gitignore                       # Unwanted system/checkpoint files filter
-├── README.md                        # Portfolio documentation & insights summary
-├── requirements.txt                 # Dependencies and library versions
-└── runner_eda.ipynb                 # Clean Jupyter Notebook with visualizations
+EDA/  
+├── Data/  
+│   └── retail_sales_dataset.csv     # Raw retail transaction dataset  
+│  
+├── .gitignore                        # Unwanted system/checkpoint files filter  
+├── README.md                         # Portfolio documentation & insights summary  
+├── requirements.txt                  # Dependencies and library versions  
+└── runner_eda.ipynb                  # Clean Jupyter Notebook with visualizations
 
 ```
 
