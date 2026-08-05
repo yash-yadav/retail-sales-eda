@@ -82,7 +82,7 @@ The dataset contains transactional records capturing retail sales performance ac
 
 1. **Clone the repository:**
 ```bash
-git clone https://github.com/your-username/retail-sales-eda.git
+git clone https://github.com/yash-yadav/retail-sales-eda.git
 cd EDA
 
 ```
